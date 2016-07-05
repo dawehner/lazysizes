@@ -1,0 +1,8 @@
+{
+    "name": "dawehner/lazysizes",
+    "type": "drupal-library",
+    "version": "2.0.0-rc2",
+    "license": "MIT",
+    "homepage": "https://afarkas.github.io/lazysizes",
+    "require": {}
+}
